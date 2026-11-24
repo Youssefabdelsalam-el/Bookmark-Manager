@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@theme {
+  --color-bg-light: #ffffff;
+  --color-primary: #0f172b;
+  --color-text-primary: #0f172b;
+  --font-sans: "Segoe UI", system-ui, -apple-system, sans-serif;
+  --text-heading: 20px;
+  --text-heading--line-height: 28px;
+  --tracking-heading: -0.5px;
+  --radius-btn: 8px;
+  --spacing-btn-y: 8px;
+  --spacing-btn-x: 14px;
+  --shadow-btn: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
